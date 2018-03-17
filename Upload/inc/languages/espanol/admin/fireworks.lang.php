@@ -18,7 +18,7 @@
 // fireworks_plugin_info
 
 $l['fireworks_Name'] = 'Fireworks';
-$l['fireworks_Desc'] = 'Shows a beautiful, colorful fireworks all over your board. Script by <a href="http://www.go4u.de" target="_blank">go4u.de</a>';
+$l['fireworks_Desc'] = 'Muestra un hermoso y coloridos fuegos artificiales en todo su tablero. Script por <a href="http://www.go4u.de" target="_blank">go4u.de</a>';
 $l['fireworks_Web'] = 'http://community.mybb.com/user-6029.html';
 $l['fireworks_Auth'] = 'Flobo x3  & updated by Vintagedaddyo';
 $l['fireworks_AuthSite'] = 'http://community.mybb.com/user-6029.html';

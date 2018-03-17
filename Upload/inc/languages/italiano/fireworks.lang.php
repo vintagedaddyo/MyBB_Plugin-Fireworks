@@ -14,6 +14,6 @@
  *
  */
 
-$l['fireworks_show_question'] = 'Should the fireworks be displayed?';
+$l['fireworks_show_question'] = 'Dovrebbero essere visualizzati i fuochi d artificio?';
 
 ?>
